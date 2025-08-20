@@ -137,7 +137,8 @@ color: #9f9fa1;
 
 
 @media screen and (max-width:480px) {
-    main_visual {
+    .main_visual img {
         width:50%
 }
 }
+
